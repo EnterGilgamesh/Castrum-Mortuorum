@@ -20,9 +20,9 @@ func movement(delta):
 
 func animate(input_direction):
 	if input_direction.x == 1.0:
-		$AnimatedSprite2D.flip_h = true
-	elif input_direction.x == -1:
 		$AnimatedSprite2D.flip_h = false
+	elif input_direction.x == -1:
+		$AnimatedSprite2D.flip_h = true
 	if input_direction == Vector2.ZERO:
 		$AnimatedSprite2D.play("idle")
 	else:
