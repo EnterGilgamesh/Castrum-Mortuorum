@@ -106,7 +106,7 @@ animations = [{
 }]
 
 [node name="Player" type="CharacterBody2D"]
-z_index = 2
+z_index = 3
 motion_mode = 1
 script = ExtResource("1_c7ri2")
 
@@ -123,7 +123,7 @@ texture = ExtResource("2_6awy1")
 z_index = 1
 sprite_frames = SubResource("SpriteFrames_x3vf3")
 animation = &"run"
-frame_progress = 0.83812374
+frame_progress = 0.7495591
 offset = Vector2(0, -5)
 
 [node name="Shadow" type="Sprite2D" parent="."]

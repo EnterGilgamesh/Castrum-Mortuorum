@@ -1,5 +1,6 @@
 extends TileMapLayer
 
+# - Fill edges of map with air tiles (wall)
 
 func _ready() -> void:
 	var filled_tiles := get_used_cells()
