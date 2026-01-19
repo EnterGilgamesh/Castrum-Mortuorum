@@ -120,11 +120,13 @@ position = Vector2(0, -5)
 texture = ExtResource("2_6awy1")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+z_index = 1
 sprite_frames = SubResource("SpriteFrames_x3vf3")
 animation = &"run"
-frame_progress = 0.7270458
+frame_progress = 0.83812374
 offset = Vector2(0, -5)
 
 [node name="Shadow" type="Sprite2D" parent="."]
+modulate = Color(1, 1, 1, 0.49019608)
 texture = ExtResource("4_gwnis")
 offset = Vector2(0, -6)
