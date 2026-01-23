@@ -1,7 +1,7 @@
 res://Player/player.tscn
-res://World/world.tscn
-res://Player/player.gd
-res://World/pathfinding_engine.gd
-res://World/tile_map_layer.gd
-res://enemy.tscn
 res://enemy.gd
+res://enemy.tscn
+res://Player/player.gd
+res://World/world.tscn
+res://boah.tscn
+res://boah.gd
