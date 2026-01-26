@@ -1,7 +1,3 @@
-res://Player/player.tscn
-res://enemy.gd
-res://enemy.tscn
-res://Player/player.gd
-res://World/world.tscn
 res://boah.tscn
 res://boah.gd
+res://World/world.tscn

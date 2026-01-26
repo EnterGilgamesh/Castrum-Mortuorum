@@ -1,14 +1,16 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1769172237
+::res://::1769304063
 Boah-sheet.png::CompressedTexture2D::5625104567466248600::1769171761::1769171763::1::::<><><>0<>0<>96194143eee02fd59163ae10b01b68ec<>res://.godot/imported/Boah-sheet.png-c91afb26c46e572e60827fdcb06e1fff.ctex::
-boah.tscn::PackedScene::9151706600279050975::1769172241::0::1::::<><><>0<>0<><>::uid://dju8akq12h4vy::::res://enemy.gd<>uid://bx3nu8re5tb3y::::res://Ghost Boah.png<>uid://cme3wd34bnbho::::res://Boah-sheet.png
-enemy.gd::GDScript::7834253410832167038::1769172164::0::1::::<>CharacterBody2D<><>0<>0<><>::
+boah.gd::GDScript::7834253410832167038::1769173439::0::1::::<>CharacterBody2D<><>0<>0<><>::
+boah.tscn::PackedScene::9151706600279050975::1769246937::0::1::::<><><>0<>0<><>::uid://dju8akq12h4vy::::res://boah.gd<>uid://bx3nu8re5tb3y::::res://Ghost Boah.png<>uid://cme3wd34bnbho::::res://Boah-sheet.png
+export_presets.cfg::TextFile::-1::1769246957::0::1::::<><><>0<>0<><>::
 Ghost Boah.png::CompressedTexture2D::4059393461020392076::1769167277::1769167323::1::::<><><>0<>0<>988f7862d0689edd05677b6c4c819c86<>res://.godot/imported/Ghost Boah.png-7b1484f664f8ceafe187e1cc75e54d1c.ctex::
 icon.svg::CompressedTexture2D::2553451317259829081::1769167277::1769167323::1::::<><><>0<>0<>217bd1f9cadfa6c2320595dd6105586f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 proto_castle_tileset.png::CompressedTexture2D::3396623121253153757::1769167277::1769167323::1::::<><><>0<>0<>900049b1b818d521a8a5cd92e0b90455<>res://.godot/imported/proto_castle_tileset.png-c8ae4b8003c8facab44ddd78e50a9208.ctex::
 proto_tileset.png::CompressedTexture2D::4440622988454352862::1769167277::1769167323::1::::<><><>0<>0<>5c374dbf13f7fa384bc568fee6e1bd6a<>res://.godot/imported/proto_tileset.png-c7f4cac35760f940233ea3f23ea59281.ctex::
 proto_tileset_dark_mode_alt.png::CompressedTexture2D::1692519616241791051::1769167277::1769167323::1::::<><><>0<>0<>e1dac86592b0be8b8870f984bbc537ba<>res://.godot/imported/proto_tileset_dark_mode_alt.png-b3d9ec0245745fe4ec9039767c62e56e.ctex::
 test.png::CompressedTexture2D::8785150573267361263::1769167277::1769167323::1::::<><><>0<>0<>0ed45c168ef1b2f02d22b313ef807341<>res://.godot/imported/test.png-2b0b935732229e5bd5e655f2644b2498.ctex::
+Weeping Spector.png::CompressedTexture2D::493321092750171337::1769304126::1769304127::1::::<><><>0<>0<>9326ed4fff71b4691153feae734f37a7<>res://.godot/imported/Weeping Spector.png-ff5bcc567ff8f988004768d40198b06b.ctex::
 ::res://Player/::1769170430
 Player Prototype-sheet1.png::CompressedTexture2D::259269546155691296::1769167277::1769167323::1::::<><><>0<>0<>a157d1f605551904196456c1734051b1<>res://.godot/imported/Player Prototype-sheet1.png-3a124a8c5e63dd46488f31fec72ead8e.ctex::
 Player Prototype-sheet2.png::CompressedTexture2D::7725273496108277646::1769167277::1769167323::1::::<><><>0<>0<>913d26c41e46c1b9a436d696f1fc4b44<>res://.godot/imported/Player Prototype-sheet2.png-535bd036a52350bea48a86a4bbee2a72.ctex::
@@ -16,6 +18,6 @@ Player Prototype-sheet2_shadow.png::CompressedTexture2D::5703625215780946695::17
 Player Prototype.png::CompressedTexture2D::2919160372546087517::1769167277::1769167323::1::::<><><>0<>0<>4be665c5e0b239604944badd99d252ae<>res://.godot/imported/Player Prototype.png-015892c0d956beea9e79c15911fecb92.ctex::
 player.gd::GDScript::4363150786111207554::1769168342::0::1::::<>CharacterBody2D<><>0<>0<><>::
 player.tscn::PackedScene::5543005649930059947::1769170430::0::1::::<><><>0<>0<><>::uid://b3fsprd7onkrq::::res://Player/player.gd<>uid://bhuce6o3p16xt::::res://Player/Player Prototype.png<>uid://dicgejou3vlle::::res://Player/Player Prototype-sheet2.png<>uid://cni44ylpowqtr::::res://Player/Player Prototype-sheet2_shadow.png
-::res://World/::1769172237
+::res://World/::1769173546
 tile_map_layer.gd::GDScript::477192531561520700::1769167277::0::1::::<>TileMapLayer<><>0<>0<><>::
-world.tscn::PackedScene::4583222451656764396::1769172237::0::1::::<><><>0<>0<><>::uid://bonl5e4ejtadp::::res://proto_castle_tileset.png<>uid://g2fj5yk04ufk::::res://World/tile_map_layer.gd<>uid://ck8cq1ffy45sh::::res://Player/player.tscn<>uid://d3nfjg3wvu464::::res://boah.tscn
+world.tscn::PackedScene::4583222451656764396::1769173546::0::1::::<><><>0<>0<><>::uid://bonl5e4ejtadp::::res://proto_castle_tileset.png<>uid://g2fj5yk04ufk::::res://World/tile_map_layer.gd<>uid://ck8cq1ffy45sh::::res://Player/player.tscn<>uid://d3nfjg3wvu464::::res://boah.tscn

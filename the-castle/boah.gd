@@ -11,7 +11,7 @@ var hiding: bool = true
 
 @onready var nav_agent: NavigationAgent2D = $NavigationAgent2D
 @onready var pathfind_timer: Timer = $PathfindCooldown
-@onready var sprite: AnimatedSprite2D = $AnimatedSprite2D
+@onready var sprite: Sprite2D = $GhostBoah
 
 func _ready() -> void:
 	# Add effects for hiding mode on spawn
@@ -37,7 +37,7 @@ func movement():
 	elif direction.x < 0:
 		sprite.flip_h = true
 	if direction == Vector2.ZERO:
-		sprite.play("idle")
+		#sprite.play("idle")
 		# Add effects for hiding mode
 		if hiding == false:
 			hiding = true
@@ -45,7 +45,7 @@ func movement():
 			var tween = create_tween()
 			tween.tween_property(sprite, "modulate", hiding_colour, 0)
 	else:
-		sprite.play("chase")
+		#sprite.play("chase")
 		# Remove effects for hiding mode
 		if hiding == true:
 			hiding = false
