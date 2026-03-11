@@ -1,7 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1769325245
+::res://::1773232043
 Boah-sheet.png::CompressedTexture2D::5625104567466248600::1769171761::1769171763::1::::<><><>0<>0<>96194143eee02fd59163ae10b01b68ec<>res://.godot/imported/Boah-sheet.png-c91afb26c46e572e60827fdcb06e1fff.ctex::
-boah.gd::GDScript::7834253410832167038::1769307071::0::1::::<>CharacterBody2D<><>0<>0<><>::
+boah.gd::GDScript::7834253410832167038::1769400332::0::1::::<>CharacterBody2D<><>0<>0<><>::
 boah.tscn::PackedScene::9151706600279050975::1769306789::0::1::::<><><>0<>0<><>::uid://dju8akq12h4vy::::res://boah.gd<>uid://ha76q3gcykab::::res://Weeping Spector.png<>uid://cme3wd34bnbho::::res://Boah-sheet.png
 export_presets.cfg::TextFile::-1::1769246957::0::1::::<><><>0<>0<><>::
 Ghost Boah.png::CompressedTexture2D::4059393461020392076::1769167277::1769167323::1::::<><><>0<>0<>988f7862d0689edd05677b6c4c819c86<>res://.godot/imported/Ghost Boah.png-7b1484f664f8ceafe187e1cc75e54d1c.ctex::
